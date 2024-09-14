@@ -20,10 +20,9 @@
 
 <hr>
 
-<div>
-<a href="https://github.com/tassomoreira">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tassomoreira&layout=compact&langs_count=7&theme=transparent"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=tassomoreira&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+<div align="center"> 
+  <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=tassomoreira&show_icons=true&count_private=true&title_color=D41b22&icon_color=D41b22&text_color=ffffff&bg_color=0d1117" alt="tassomoreira's github stats" /> 
+  <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tassomoreira&layout=compact&title_color=D41b22&text_color=ffffff&bg_color=0d1117" />
 </div>
 
 <hr>
